@@ -1,0 +1,27 @@
+main{
+  display: flex;
+  gap:10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+section{
+  display: flex;
+  gap: 10px;
+  flex-direction: row;
+}
+
+div{
+  border: solid 1px blue;
+  height: 100px;
+  width: 70px;
+}
+
+img{
+
+  width: 70px;
+  height: 80px;
+
+}
+
